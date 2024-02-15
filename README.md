@@ -12,4 +12,4 @@
 </ul>
 </h2>
 <br>
-<img src="
+<img src="https://github.com/zaqueumenezes/reposvidade-zaqueu-site/blob/main/mobile.jpg?raw=true"/>
